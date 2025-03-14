@@ -1,0 +1,26 @@
+{
+  "customers": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "postalCode": "12345"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "postalCode": "56789"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "postalCode": "98765"
+    }
+  ],
+  "transactions": [
+    {
+      "customer": "John Doe",
+      "deposit": 500,
+      "withdrawal": 200
+    }
+  ]
+}
