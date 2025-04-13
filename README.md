@@ -59,6 +59,3 @@ This project is a test automation framework for validating the functionality of 
 ## Contribution
 Feel free to fork the repository, make changes, and submit a pull request. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License.
-
